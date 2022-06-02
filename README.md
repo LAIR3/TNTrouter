@@ -9,7 +9,7 @@ All modification DeltaV (c) MIT licence and BUSL 1.1 license where applicable
 symcryptosis using solidity and delta to solve the cryptocurrency bridging trilemma
 
 DeltaV THRUST is a multistage modular rocket capable of multiple launch cycles and suitable for cross-chain cryptocurrency exploration
-DeltaV THRUST exploring cryptospace with StarGate and Wormhole technology to achieve lightspeed (c) DeltaV THRUST and faster than light parsec (c) DeltaV THRUST through the handshake, warpdrive, equilibrium and afterburner function calls. DeltaV THUST was designed to be cross-chain from inception. Symcryptosis has been proven. Value is an inhereted charactistic. DeltaV THRUST will scale into a hyper-deflationary asset over time. Interest is growing. Share your interest. DeltaV THRUST is an amortised consortium of companies including, but is not limited to
+DeltaV THRUST exploring cryptospace with StarGate and Wormhole technology to achieve lightspeed (c) DeltaV THRUST and faster than light parsec (c) DeltaV THRUST travel through the handshake, warpdrive, equilibrium and afterburner function calls. DeltaV THUST was designed to be cross-chain from inception. Symcryptosis has been proven. Value is an inhereted charactistic. DeltaV THRUST will scale into a hyper-deflationary asset over time. Interest is growing. Share your interest. DeltaV THRUST is an amortised consortium of companies including, but not limited to
 
 https://deltavthust.com
 https://deltav.exchange
