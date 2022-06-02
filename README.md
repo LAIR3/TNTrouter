@@ -35,8 +35,10 @@ https://github.com/spintrademe
 https://github.com/agregkit
 https://github.com/smartmetamask
 https://github.com/smartBNBmetrics
+daonow.world
 https://github.com/dautonomous
 https://github.com/daonow
+
 
 Algorand decenterland decentralised storage island
 https://github.com/decenterland/
@@ -48,6 +50,15 @@ OpenSea Polygon and Ethereum NFT collections of community generated artwork
 https://opensea.io/collection/deltavthrust
 https://opensea.io/collection/thrusted
 https://opensea.io/collection/deltav
+
+
+Educational resources
+Learn and Earn web3
+https://coinmarketcap.com/gravity/articles/27764
+cryptozombies.io solidity primer
+https://cryptozombies.io/
+w3schools timeless tutorials
+https://www.w3schools.com/
 
 
 
