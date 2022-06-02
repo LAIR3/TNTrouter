@@ -13,12 +13,12 @@ DeltaV THRUST exploring cryptospace with StarGate and Wormhole technology to ach
 
 https://deltavthust.com
 https://deltav.exchange
-deltav.foundation
+http://deltav.foundation
 deltav.financial
 deltavthrust.org
-deltav.company
+http://deltav.company
 deltav.world
-deltav.money
+http://deltav.money
 deltav.shop
 deltav.info
 deltav.one
@@ -28,6 +28,10 @@ DeltaV THRUST on the interplanetary file system (IPFS)
 deltavthrust.wallet
 deltavthrust.coin
 deltavthrust.nft
+
+https://ud.me/deltavthrust.coin
+https://ud.me/deltavthrust.nft
+https://ud.me/deltavthrust.wallet
 
 external supportive github repositories
 https://github.com/symcryptosis
