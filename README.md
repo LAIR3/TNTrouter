@@ -39,7 +39,7 @@ https://github.com/spintrademe
 https://github.com/agregkit
 https://github.com/smartmetamask
 https://github.com/smartBNBmetrics
-daonow.world
+http://daonow.world
 https://github.com/dautonomous
 https://github.com/daonow
 
