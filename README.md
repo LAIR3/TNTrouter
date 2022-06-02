@@ -1,6 +1,8 @@
 # DELTAVstargaterouter.sol
 omnibridge symcryptosis rosen-bridge allchain stargate wormhole cross-bridge
+
 Algorand --> Zilliqa --> BSC --> Polygon --> Moonbeam --> Ethereum --> Harmony
+https://sourceforge.net/software/compare/Algorand-vs-Harmony-Blockchain-vs-Suter-Bridge-vs-cBridge/
 
 Based on the work by StarGate (c) BUSL 1.1 licence
 https://spdx.org/licenses/BUSL-1.1.html
