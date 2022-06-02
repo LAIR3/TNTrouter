@@ -6,9 +6,9 @@ Based on the work by StarGate (c) BUSL 1.1 licence
 https://spdx.org/licenses/BUSL-1.1.html
 
 All modification DeltaV (c) MIT licence and BUSL 1.1 license where applicable
-symcryptosis using solidity and delta to solve the trilemma
+symcryptosis using solidity and delta to solve the cryptocurrency bridging trilemma
 
-DeltaV THRUST is a multistage modular rocket capable of multiple launch cycles
+DeltaV THRUST is a multistage modular rocket capable of multiple launch cycles and suitable for cross-chain cryptocurrency exploration
 DeltaV THRUST exploring cryptospace with StarGate and Wormhole technology to achieve lightspeed (c) DeltaV THRUST and faster than light parsec (c) DeltaV THRUST through the handshake, warpdrive, equilibrium and afterburner function calls. DeltaV THUST was designed to be cross-chain from inception. Symcryptosis has been proven. Value is an inhereted charactistic. DeltaV THRUST is a consortium of companies that includes, but is not limited to
 
 https://deltavthust.com
