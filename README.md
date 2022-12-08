@@ -20,24 +20,16 @@ DICTATORDAO
 PHYSICSDAO
 
 https://deltavthust.com
-https://deltav.exchange
-http://deltav.foundation
-deltav.financial
-deltavthrust.org
-http://deltav.company
-deltav.world
-http://deltav.money
-deltav.shop
-deltav.info
-deltav.one
-deltav.vip
+https://deltav.foundation
+https://deltav.money
+
+https://thrust.vip
 
 DeltaV THRUST on the interplanetary file system (IPFS)
 deltavthrust.wallet
-deltavthrust.coin
+deltavthrust.dao
 deltavthrust.nft
-
-https://ud.me/deltavthrust.coin
+https://ud.me/deltavthrust.dao
 https://ud.me/deltavthrust.nft
 https://ud.me/deltavthrust.wallet
 
@@ -71,3 +63,4 @@ cryptozombies.io solidity primer
 https://cryptozombies.io/
 w3schools timeless tutorials
 https://www.w3schools.com/
+https://whiteboardcrypto.teachable.com/p/beginner-defi-guide
