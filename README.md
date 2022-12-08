@@ -39,7 +39,6 @@ https://github.com/spintrademe
 https://github.com/agregkit
 https://github.com/smartmetamask
 https://github.com/smartBNBmetrics
-http://daonow.world
 https://github.com/dautonomous
 https://github.com/daonow
 
@@ -47,14 +46,10 @@ https://github.com/daonow
 Algorand decenterland decentralised storage island
 https://github.com/decenterland/
 
-tokindex oracle for accuracy in price valuation research from Eth-Global Hackathon 2022
-https://github.com/tokindex
-
 OpenSea Polygon and Ethereum NFT collections of community generated artwork
 https://opensea.io/collection/deltavthrust
 https://opensea.io/collection/thrusted
 https://opensea.io/collection/deltav
-
 
 Educational resources
 Learn and Earn web3
