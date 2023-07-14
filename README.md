@@ -22,10 +22,9 @@ PHYSICSDAO
 <a href="https://tnt.exchange">THRUST TNT</a>
 
 DeltaV THRUST stargate bridge is fully functional
-<a href="https://bridge.tnt.exchange"</a>
-
-# interplanetary
-DeltaV THRUST on the interplanetary file system (IPFS)
+<a href="https://bridge.tnt.exchange">THRUST BRIDGE</a>
+# <a href="https://github.com/interplanetaryfilesytem">interplanetary</a>
+DeltaV THRUST on the <a href="https://github.com/interplanetaryfilesytem">interplanetary</a> file system (IPFS)
 deltavthrust.wallet
 deltavthrust.dao
 deltavthrust.nft
