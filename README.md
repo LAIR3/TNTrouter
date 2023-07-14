@@ -1,7 +1,7 @@
 # DELTAVstargaterouter.sol
 omnibridge symcryptosis rosen-bridge allchain stargate wormhole cross-bridge
 
-Algorand --> Zilliqa --> BSC --> Polygon --> Moonbeam --> Ethereum --> Harmony
+Algorand --> Zilliqa --> BSC --> <a href="https://copilot.polygon.technology/">Polygon</a> --> Moonbeam --> Ethereum --> Harmony
 https://sourceforge.net/software/compare/Algorand-vs-Harmony-Blockchain-vs-Suter-Bridge-vs-cBridge/
 
 Based on the work by StarGate (c) BUSL 1.1 licence
@@ -19,12 +19,12 @@ DeltaV THRUST is an amortised consortium of web3.1 companies including;
 DICTATORDAO
 PHYSICSDAO
 
-https://deltavthust.com
-https://deltav.foundation
-https://deltav.money
-
 https://thrust.vip
 
+DeltaV THRUST stargate bridge is fully functional
+<a href="https://bridge.tnt.exchange"</a>
+
+# interplanetary
 DeltaV THRUST on the interplanetary file system (IPFS)
 deltavthrust.wallet
 deltavthrust.dao
@@ -33,25 +33,24 @@ https://ud.me/deltavthrust.dao
 https://ud.me/deltavthrust.nft
 https://ud.me/deltavthrust.wallet
 
-external supportive github repositories
-https://github.com/symcryptosis
-https://github.com/spintrademe
-https://github.com/agregkit
+# metamask
 https://github.com/smartmetamask
 https://github.com/smartBNBmetrics
+# dao
 https://github.com/dautonomous
 https://github.com/daonow
-
-
+# storage
 Algorand decenterland decentralised storage island
 https://github.com/decenterland/
 
 OpenSea Polygon and Ethereum NFT collections of community generated artwork
+# nft
+https://github.com/DeltaVThrust-NFT
 https://opensea.io/collection/deltavthrust
 https://opensea.io/collection/thrusted
 https://opensea.io/collection/deltav
 
-Educational resources
+# Educational resource for creative people
 Learn and Earn web3
 https://coinmarketcap.com/gravity/articles/27764
 cryptozombies.io solidity primer
@@ -59,3 +58,8 @@ https://cryptozombies.io/
 w3schools timeless tutorials
 https://www.w3schools.com/
 https://whiteboardcrypto.teachable.com/p/beginner-defi-guide
+
+external supportive github repositories
+# cryptocurrency that supports the value of a second cryptocurrency is symcryptosis
+https://github.com/symcryptosis
+https://github.com/agregkit
