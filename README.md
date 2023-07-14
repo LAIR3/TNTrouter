@@ -19,7 +19,7 @@ DeltaV THRUST is an amortised consortium of web3.1 companies including;
 DICTATORDAO
 PHYSICSDAO
 
-https://thrust.vip
+<a href="https://tnt.exchange">THRUST TNT</a>
 
 DeltaV THRUST stargate bridge is fully functional
 <a href="https://bridge.tnt.exchange"</a>
