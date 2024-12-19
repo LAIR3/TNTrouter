@@ -1,13 +1,10 @@
-# DELTAVstargaterouter.sol
+# TNt router
 omnibridge symcryptosis rosen-bridge allchain stargate wormhole cross-bridge
-
-Algorand --> Zilliqa --> BSC --> <a href="https://copilot.polygon.technology/">Polygon</a> --> Moonbeam --> Ethereum --> Harmony</ br>
-https://sourceforge.net/software/compare/Algorand-vs-Harmony-Blockchain-vs-Suter-Bridge-vs-cBridge/
 
 Based on the work by StarGate (c) BUSL 1.1 licence
 https://spdx.org/licenses/BUSL-1.1.html
 
-All modification DeltaV (c) MIT licence and BUSL 1.1 license where applicable
+All modification TNT (c) MIT licence and BUSL 1.1 license where applicable
 symcryptosis using solidity and delta to solve the cryptocurrency bridging trilemma
 
 DeltaV THRUST is a multistage modular rocket capable of multiple launch cycles and suitable for cross-chain cryptocurrency exploration
@@ -16,6 +13,7 @@ DeltaV THRUST exploring cryptospace with StarGate and Wormhole technology to ach
 DeltaV THRUST began life as a Hyper-Deflationary Daily Percentage Rewards token on the Binance Smart Chain
 https://bscscan.com/token/0x969F60Bfe17962E0f061B434596545C7b6Cd6Fc4#balances
 DeltaV THRUST is an amortised consortium of web3.1 companies including;
+
 DICTATORDAO
 PHYSICSDAO
 
@@ -24,6 +22,7 @@ PHYSICSDAO
 DeltaV THRUST stargate bridge is fully functional
 <a href="https://bridge.tnt.exchange">THRUST BRIDGE</a>
 # <a href="https://github.com/interplanetaryfilesytem">interplanetary</a>
+
 DeltaV THRUST on the <a href="https://github.com/interplanetaryfilesytem">interplanetary</a> file system (IPFS)
 deltavthrust.wallet
 deltavthrust.dao
@@ -38,9 +37,9 @@ https://github.com/smartBNBmetrics
 # dao
 https://github.com/dautonomous
 https://github.com/daonow
+
 # storage
-Algorand decenterland decentralised storage island
-https://github.com/decenterland/
+https://github.com/interplanetaryfilesystem
 
 OpenSea Polygon and Ethereum NFT collections of community generated artwork
 # nft
